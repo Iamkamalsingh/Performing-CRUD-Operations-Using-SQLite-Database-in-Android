@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DatabaseDemo</string>
+    <string name="using_sqlite_database_in_android_performing_crud_operations">Using SQLite Database in Android: Performing CRUD Operations</string>
+    <string name="creating_a_table">1.Creating a Table:</string>
+    <string name="inserting_data">2.Inserting Data:</string>
+    <string name="reading_data">3.Reading Data:</string>
+    <string name="updating_data">4.Updating Data:</string>
+    <string name="deleting_data">5.Deleting Data:</string>
+</resources>
